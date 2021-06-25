@@ -1,0 +1,31 @@
+.show {
+    margin: 20px 0;
+    width: 700px;
+  }
+  .show__info {
+    color: silver;
+    font-weight: normal;
+    font-size: 14px;
+  }
+  .show__details {
+    margin-top: 25px;
+  }
+  .show__link {
+    margin-bottom: 5px;
+  }
+  .show__link a {
+    color: #3c4043;
+    text-decoration: none;
+  }
+  .show__title {
+    margin-bottom: 10px;
+  }
+  .show__title a {
+    font-size: 20px;
+    color: #1a0dab;
+    text-decoration: none;
+  }
+  .show__description {
+    color: #3c4043;
+    font-size: 14px;
+  }
